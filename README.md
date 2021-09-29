@@ -1,6 +1,6 @@
 
-### An Implementation of Conway's Game of Life with A Few *Relatively* Nice Features and Design Aspects
-### Copyright (C) 2020  David Bayani
+# An Implementation of Conway's Game of Life with A Few *Relatively* Nice Features and Design Aspects
+>   Copyright (C) 2020  David Bayani
 >
 >   This program is free software: you can redistribute it and/or modify
 >   it under the terms of the GNU General Public License as published by
@@ -31,7 +31,7 @@ a discrete dynamical system with rich behavior, for testing) (b) just to
 fiddle around with. For the non-extreme-enthusiast, I am sure they can find many 
 repos with worthwhile code, and *maybe* this will be one of them.
 
-# Capabilities
+### Capabilities
 
 As shown in the example-GIF, this code can produce GIFs of results.
 In the GIF, the red, blue, and green channels are all independent evolutions
@@ -59,7 +59,7 @@ file for upload, this GIF could not be displayed here.
 If you look closely at this example GIF, you will see the spots here-and-there 
 where a square has been randomly turned "on" in one of the channels.
 
-# Code Quality 
+### Code Quality 
 
 The code quality is not fantastic, but it is also not horrible. Hopefully, those who
 are programming-inclined will find it easy enough to consume, though far from an
@@ -75,7 +75,7 @@ My intent here is to release what I have written that others might find of
 interest - not to invest any additional effort to make the program  conform closer with my 
 judgment of what code with a proper interface and structure looks like.
 
-# Some Metadata
+### Some Metadata
 
 Using script located in 
 [another repo of mine](https://github.com/DBay-ani/information_preservation_and_backup_notes_and_info/tree/master/scriptsForCollectingFileMetadata), this is some older metadata for the code and larger GIF included, prior to
