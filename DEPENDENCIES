@@ -1,0 +1,29 @@
+#    An Implementation of Conway's Game of Life with A Few *Relatively* Nice Features and Design Aspects
+#    Copyright (C) 2020  David Bayani
+#
+#    This program is free software: you can redistribute it and/or modify
+#    it under the terms of the GNU General Public License as published by
+#    the Free Software Foundation, either version 3 of the License, or
+#    (at your option) any later version.
+#
+#    This program is distributed in the hope that it will be useful,
+#    but WITHOUT ANY WARRANTY; without even the implied warranty of
+#    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+#    GNU General Public License for more details.
+#
+#    You should have received a copy of the GNU General Public License
+#    along with this program.  If not, see <https://www.gnu.org/licenses/>.
+
+
+# The software in this repository has the following dependencies,
+# shown below by version information reported by the packages
+# below.
+
+Using:  Python 3.6.9
+>>> import numpy; numpy.__version__
+'1.18.1'
+>>> import scipy; scipy.__version__
+'1.4.1'
+>>> import PIL; PIL.__version__
+'5.1.0'
+>>> 
